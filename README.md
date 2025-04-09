@@ -1,1 +1,1 @@
-Using BeautifulSoup to Web Scraping
+Using BeautifulSoup for Web Scraping
